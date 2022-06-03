@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.center{
+  margin: 0;
+  position: relative;
+  text-align: center;
+}
+figcaption{
+text-align: center;
+}
+
+.fig-center{
+  width: 800px;
+  align-items:center;
+  margin: auto;
+  width: 70%;
+}
+p#featured-property{
+  width: 800px;
+  
+}
+.p-centered{
+  text-align: center;
+  width: 800px;
+  margin:auto;
+}
+
+#details{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  bottom: 25%;
+  justify-content: space-evenly
+  
+}
